@@ -5,5 +5,5 @@ With the update to OneDrive where files are now handled as placeholders until ne
 
 This app scans all your folders and reveals the size of each folder
 
-![](https://www.neilb.net/site/image.png)
+![](https://github.com/nbarkhina/Calculate-Onedrive-Size/blob/master/onedrive1.JPG)
 
