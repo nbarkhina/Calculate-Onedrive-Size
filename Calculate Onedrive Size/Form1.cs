@@ -22,19 +22,7 @@ namespace Calculate_Onedrive_Size
 
         private async void button1_Click(object sender, EventArgs e)
         {
-            /*
-            allSizes = "";
-            FileInfo file1 = new FileInfo(@"C:\Users\nbark\OneDrive\Videos\Random\Neil Drumming.MOV");
-            FileInfo file2 = new FileInfo(@"C:\Users\nbark\OneDrive\Videos\Random\Mad ball racer 1.mp4");
-
-            long file1size = GetFileSizeOnDisk(@"C:\Users\nbark\OneDrive\Videos\Random\Neil Drumming.MOV");
-            long file2size = GetFileSizeOnDisk(@"C:\Users\nbark\OneDrive\Videos\Random\Mad ball racer 1.mp4");
-
-
-
-            //string folder = @"C:\Users\nbark\OneDrive\Videos";
-            */
-            string folder = @"C:\Users\nbark\OneDrive";
+            string folder = txtLocation.Text;
             long foldersize = 0;
             textBox1.Text = "Please wait...";
 
