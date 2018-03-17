@@ -4,3 +4,6 @@ Allows you to see in detail which OneDrive Folders are taking up the most space 
 With the update to OneDrive where files are now handled as placeholders until needed, it is difficult to see which folders are taking up space
 
 This app scans all your folders and reveals the size of each folder
+
+![](https://www.neilb.net/site/image.png)
+
